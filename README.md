@@ -1,5 +1,5 @@
 # coco
-Arch based distro with customisations, made for easy customisation without being bloated
+Arch based distro made for easy customisation without being bloated
 
 
 # Downloads
