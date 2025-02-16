@@ -1,5 +1,5 @@
 # coco
-CachyOS based distro with customisations
+Arch based distro with customisations, made for easy customisation without being bloated
 
 
 # Downloads
